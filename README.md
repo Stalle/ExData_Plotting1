@@ -1,9 +1,9 @@
 ##The four plots
 ### Plot 1
-![plot of png1](png1.png) 
+![plot of png1](plot1.png) 
 ### Plot 2
-![plot of png2](png2.png) 
+![plot of png2](plot2.png) 
 ### Plot 3
-![plot of png3](png3.png) 
+![plot of png3](plot3.png) 
 ### Plot 4
-![plot of png4.png](png4.png) 
+![plot of png4.png](plot4.png) 
